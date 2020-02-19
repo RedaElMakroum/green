@@ -8674,7 +8674,7 @@ textarea.form-control {
   .block-30.no-overlay:before {
     display: none; }
   .block-30, .block-30 .row {
-    min-height: 700px;
+    min-height: 750px;
     height: 100vh; }
   .block-30 .subheading-sm {
     margin-bottom: 30px;
@@ -8722,7 +8722,7 @@ textarea.form-control {
       border-color: #fff;
       color: #fff; }
   .block-30.block-30-sm, .block-30.block-30-sm .row {
-    min-height: 700px;
+    min-height: 750px;
     height: 70vh; }
   .block-30.block-30-sm .heading {
     font-size: 70px;
